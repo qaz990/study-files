@@ -1,0 +1,133 @@
+.d1{
+	margin: 30px auto;
+	width: 1200px;
+}
+
+h1,h2{
+	margin: 0px;
+	padding: 0px;
+}
+
+ul1,ul2,ul3{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+.d1 h1{
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	padding-bottom: 10px;
+	font-size: 40px;
+}
+
+.d1 .top-1{
+	width: 1200px;
+	height: 30px;
+	line-height: 30px;
+	text-align: right;
+	font-size: 20px;
+	margin-bottom: 30px;
+}
+
+.lst1{
+	height: 70px;
+	background: #0061ba;
+}
+
+.lst1 ul1 li{
+	float: left;
+	width: 300px;
+	line-height: 70px;
+	text-align: center;
+	font-size: 18px;
+}
+
+.lst1 ul1 li a{
+	display: block;
+	width: 300px;
+	height: 70px;
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.lst1 ul1 li a:hover{
+	background: #1286ea;
+	font-weight: bold;
+}
+
+.info{
+	width: 1200px;
+	margin: 20px auto;
+}
+
+/*内容*/
+/*左侧*/
+.info h1{
+	width: 300px;
+	height: 60px;
+	font-size: 20px;
+	text-align: center;
+	line-height: 60px;
+	background: #eeeeee;
+	border-top: 2px solid #8a8a8a;
+}
+
+.lst2-f{
+	width: 300px;
+	height: 600px;
+	float: left;
+	padding-top: 5px;
+	font-size: 14px;
+}
+
+.lst3-f ul2 li{
+	height: 50px;
+	line-height: 50px;
+	margin-bottom: 5px;
+	border-bottom: 1px dashed #8a8a8a;
+	font-size: 16px;
+}
+
+.lst3-f ul2 li a{
+	text-decoration: none;
+	color: #8a8a8a;
+	background: url("../images/实心小点.png") no-repeat 5px 1px;
+	background-size: 20px 20px;
+	padding: 0px 10px 0px 25px;
+}
+
+.lst3-f ul2 li a:hover{
+	background: url("../images/实心小点.png") no-repeat 10px 4px;
+	background-size: 20px 20px;
+	padding: 3px 10px 0px 35px;
+	color: #f60;
+	font-weight: bold;
+}
+
+/*右侧*/
+.info h2{
+	width: 880px;
+	height: 60px;
+	font-size: 24px;
+	text-align: center;
+	line-height: 60px;
+	background: #eeeeee;
+	border-top: 2px solid #8a8a8a;
+}
+
+.lst2-r{
+	width: 880px;
+	height: 600px;
+	float: right;
+	padding-top: 5px;
+	font-size: 14px;
+}
+
+.lst3-r ul3 li{
+	height: 30px;
+	line-height: 30px;
+	margin-bottom: 5px;
+	font-size: 18px;
+}

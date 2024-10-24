@@ -1,0 +1,14 @@
+width:;/*宽度*/
+margin:;/*外边距 顺序：上 右 下 左*/
+padding:;/*内边距*/
+font-size/*字体大小*/
+line-height/*行高*/
+font-style/*文字属性*/  /*normal 正常字体； italic 斜体； oblique 倾斜的字体*/
+/*块状标签 <p>-右外边距 <div> <h1>-黑体属性*/
+/*solid 实线  dashed 虚线*/
+/*float  浮动方向*/
+/*decoration  下划线*/
+/*display block  非块状转化为块状*/
+/*hover 鼠标滑过痕迹————配合背景颜色改变实现*/
+/*font-weight: bold;  字体加粗*/
+border-radius : 设置圆角  顺序：上 右 下 左

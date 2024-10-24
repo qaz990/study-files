@@ -1,0 +1,45 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+.box{
+	width: 1200px;
+	height: 360px;
+	margin: 20px auto;
+	padding-top: 20px;
+	margin-top: 50px;
+	background: #1296db;
+}
+
+.box-item{
+	width: 279px;
+	height: 158px;
+	float: left;
+	background: #ffffff;
+	margin-left: 17px;
+	margin-bottom: 20px;
+	border-radius: 30px;
+
+}
+
+.box-item img{
+	display: block;
+	width: 80px;
+	height: 80px;
+	margin: 20px auto 15px auto;
+}
+
+.box-item div{
+	font-size: 15px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.box-item div a{
+	text-decoration: none;
+}
+
+.box-item:hover{
+	box-shadow: 2px 2px 2px 2px #333333;
+}
