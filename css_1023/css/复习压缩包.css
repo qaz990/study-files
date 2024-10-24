@@ -3,6 +3,11 @@ body{
 	padding: 0px;
 }
 
+.review{
+	margin: 30px auto;
+	width: 1200px;
+}
+
 h1{
 	margin: 0px;
 	padding: 0px;
@@ -13,22 +18,12 @@ ul{
 	padding: 0px;
 }
 
-.ppt{
-	margin: 30px auto;
-	width: 1200px;
-}
-
-.ppt h1{
+.title h1{
 	height: 40px;
 	line-height: 40px;
 	text-align: center;
+	padding-bottom: 15px;
 	font-size: 40px;
-	padding-bottom: 10px;
-}
-
-.infos{
-	margin: 0px auto;
-	width: 1200px;
 }
 
 .infos ul li{
@@ -36,7 +31,6 @@ ul{
 	line-height: 40px;
 	font-size: 18px;
 	border-bottom: 1px dashed #8a8a8a;
-	padding-bottom: 0px;
 	margin-bottom: 5px;
 }
 
