@@ -1,6 +1,13 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	/*background: #f7f4eb;*/
+}
+
 .d1{
 	margin: 30px auto;
 	width: 1200px;
+	background: #ffffff;
 }
 
 h1,h2{
@@ -12,6 +19,15 @@ ul1,ul2,ul3{
 	margin: 0px;
 	padding: 0px;
 	list-style: none;
+	background: #ffffff;
+}
+
+.all{
+	width: 1400px;
+	height: 2000px;
+	margin: 10px auto;
+	padding: 0px;
+	background: #ffffff;
 }
 
 .d1 h1{
@@ -57,12 +73,13 @@ ul1,ul2,ul3{
 	font-weight: bold;
 }
 
+/*内容*/
 .info{
 	width: 1200px;
 	margin: 20px auto;
+	background: #ffffff;
 }
 
-/*内容*/
 /*左侧*/
 .info h1{
 	width: 300px;
@@ -80,6 +97,7 @@ ul1,ul2,ul3{
 	float: left;
 	padding-top: 5px;
 	font-size: 14px;
+	background: #ffffff;
 }
 
 .lst3-f ul2 li{
@@ -123,6 +141,7 @@ ul1,ul2,ul3{
 	float: right;
 	padding-top: 5px;
 	font-size: 14px;
+	background: #ffffff;
 }
 
 .lst3-r ul3 li{
