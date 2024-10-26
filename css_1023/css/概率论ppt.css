@@ -3,11 +3,6 @@ body{
 	padding: 0px;
 }
 
-.total{
-	margin: 30px auto;
-	width: 1200px;
-}
-
 h1{
 	margin: 0px;
 	padding: 0px;
@@ -16,11 +11,14 @@ h1{
 ul{
 	margin: 0px;
 	padding: 0px;
-	list-style: none;
 }
 
-.title h1{
+.ppt{
+	margin: 30px auto;
 	width: 1200px;
+}
+
+.ppt h1{
 	height: 40px;
 	line-height: 40px;
 	text-align: center;
@@ -29,27 +27,26 @@ ul{
 }
 
 .infos{
-	height: 70px;
-	background: #0061ba;
+	margin: 0px auto;
+	width: 1200px;
 }
 
 .infos ul li{
-	float: left;
-	width: 600px;
-	line-height: 70px;
-	text-align: center;
+	width: 1200px;
+	line-height: 40px;
 	font-size: 18px;
+	border-bottom: 1px dashed #8a8a8a;
+	padding-bottom: 0px;
+	margin-bottom: 5px;
 }
 
 .infos ul li a{
-	display: block;
-	width: 600px;
-	height: 70px;
 	text-decoration: none;
-	color: #ffffff;
+	color: black;
+	padding: 0px 0px 0px 0px;
 }
 
 .infos ul li a:hover{
-	background: #1286ea;
-	font-weight: bold;
+	color: #f60;
+	padding: 5px 0px 0px 10px;
 }

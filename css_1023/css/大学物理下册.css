@@ -35,7 +35,7 @@ ul{
 
 .infos ul li{
 	float: left;
-	width: 600px;
+	width: 400px;
 	line-height: 70px;
 	text-align: center;
 	font-size: 18px;
@@ -43,7 +43,7 @@ ul{
 
 .infos ul li a{
 	display: block;
-	width: 600px;
+	width: 400px;
 	height: 70px;
 	text-decoration: none;
 	color: #ffffff;
