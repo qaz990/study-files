@@ -54,7 +54,7 @@ ul1,ul2,ul3{
 
 .lst1 ul1 li{
 	float: left;
-	width: 300px;
+	width: 240px;
 	line-height: 70px;
 	text-align: center;
 	font-size: 18px;
@@ -62,7 +62,7 @@ ul1,ul2,ul3{
 
 .lst1 ul1 li a{
 	display: block;
-	width: 300px;
+	width: 240px;
 	height: 70px;
 	text-decoration: none;
 	color: #ffffff;
@@ -133,6 +133,7 @@ ul1,ul2,ul3{
 	line-height: 60px;
 	background: #eeeeee;
 	border-top: 2px solid #8a8a8a;
+	margin-bottom: 10px;
 }
 
 .lst2-r{
@@ -145,8 +146,8 @@ ul1,ul2,ul3{
 }
 
 .lst3-r ul3 li{
-	height: 30px;
-	line-height: 30px;
+	height: 25px;
+	line-height: 25px;
 	margin-bottom: 5px;
 	font-size: 18px;
 }
