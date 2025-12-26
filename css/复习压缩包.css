@@ -1,0 +1,46 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+.review{
+	margin: 30px auto;
+	width: 1200px;
+}
+
+h1{
+	margin: 0px;
+	padding: 0px;
+}
+
+ul{
+	margin: 0px;
+	padding: 0px;
+}
+
+.title h1{
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	padding-bottom: 15px;
+	font-size: 40px;
+}
+
+.infos ul li{
+	width: 1200px;
+	line-height: 40px;
+	font-size: 18px;
+	border-bottom: 1px dashed #8a8a8a;
+	margin-bottom: 5px;
+}
+
+.infos ul li a{
+	text-decoration: none;
+	color: black;
+	padding: 0px 0px 0px 0px;
+}
+
+.infos ul li a:hover{
+	color: #f60;
+	padding: 5px 0px 0px 10px;
+}
