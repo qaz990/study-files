@@ -54,7 +54,7 @@ ul1,ul2,ul3{
 
 .lst1 ul1 li{
 	float: left;
-	width: 240px;
+	width: 400px;
 	line-height: 70px;
 	text-align: center;
 	font-size: 18px;
@@ -62,7 +62,7 @@ ul1,ul2,ul3{
 
 .lst1 ul1 li a{
 	display: block;
-	width: 240px;
+	width: 400px;
 	height: 70px;
 	text-decoration: none;
 	color: #ffffff;
